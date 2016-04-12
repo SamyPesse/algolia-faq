@@ -1,0 +1,3 @@
+By default, we do not take punctuation into account when doing a search (we consider any punctuation character to be equivalent to a 'space').
+
+If you would like to enable special characters in your search (for example for being able to search for the string `C++`), you'll have to edit the `separatorsToIndex` field on your index settings. In the previous example, you'll just have to add the character `+` for being able to search for it.

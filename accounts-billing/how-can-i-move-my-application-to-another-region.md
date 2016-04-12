@@ -1,0 +1,1 @@
+Unfortunately, the automatic migration from an application to another is not exposed through our UI yet. Please [contact us](mailto:support@algolia.com) if you want to change the region your search is hosted on.

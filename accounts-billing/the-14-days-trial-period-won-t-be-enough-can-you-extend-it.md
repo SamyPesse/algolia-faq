@@ -1,0 +1,1 @@
+It is our goal to ensure you have the best trial experience possible! Send us [an email](mailto:support@algolia.com) and we’ll see what we can do.

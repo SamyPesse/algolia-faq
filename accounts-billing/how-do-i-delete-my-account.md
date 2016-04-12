@@ -1,0 +1,3 @@
+For security reasons, at this moment we do not have an automatic way to delete an account. You can [contact us by email](mailto:support@algolia.com), using the same address email that the one used at the sign-up, and ask for an account removal.
+
+You will then no longer be able to push new data or do a search on your indices. If you'd like to keep your indices online, you can revert to the free Hacker plan (max 1000 records) directly from your dashboard.

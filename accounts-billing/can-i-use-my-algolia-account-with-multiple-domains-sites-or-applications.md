@@ -1,0 +1,1 @@
+For all our plans, there is no domain limitation. You can use Algolia from as many domains as you want. You can also use the same account and indices for your website and mobile applications.

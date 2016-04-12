@@ -1,0 +1,1 @@
+Yes, currency symbols are indexed. For common symbols that correspond to just a single currency, they will also match the associated  [three-letter currency code](https://en.wikipedia.org/wiki/ISO_4217), for example € and EUR or ₮ and MNT.

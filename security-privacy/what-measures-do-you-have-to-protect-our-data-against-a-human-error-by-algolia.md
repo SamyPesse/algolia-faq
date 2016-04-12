@@ -1,0 +1,1 @@
+Besides troubleshooting and profiling there are no human interactions with the data. The data is replicated on 3 servers inside the cluster (+ all DSN replicas) and regularly backuped. When there is any operation on top of data being performed that is not already automatic, it is always done only on a single server out of the cluster.

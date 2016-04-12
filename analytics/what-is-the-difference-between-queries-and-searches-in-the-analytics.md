@@ -1,0 +1,3 @@
+Our search engine is designed to accept queries at each keystroke. In order to have relevant analytics data, **we aggregate the series of keystrokes** to keep only the latest (final) query made by the end user.
+
+In the dashboard, the **queries** are the search queries made to the engine directly and the **searches** are the aggregated search queries used by the analytics. For example, if the users type "key", it will perform 3 search queries "k", "ke, and "key", but we'll only use "key" as a search in the analytics.

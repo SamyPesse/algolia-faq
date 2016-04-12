@@ -1,0 +1,1 @@
+Unfortunately, there is no over-quota if you signed up using Heroku. If you want to have access to over-quota, you need to uninstall your Heroku plugin, and create a new account  [directly on Algolia](https://www.algolia.com/users/sign_up).

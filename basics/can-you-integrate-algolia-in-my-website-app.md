@@ -1,0 +1,1 @@
+We currently don't provide any integration services. But we do provide support and guidance to all our users, no matter your plan. [Let us know](mailto:support@algolia.com) if you need a specific help with your development. We might know the right people who can help you!

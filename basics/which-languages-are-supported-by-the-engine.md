@@ -1,0 +1,1 @@
+Our engine is language-agnostic: both alphabet-base and symbol-based languages such as Chinese, Japanese or Korean are supported.

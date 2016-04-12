@@ -1,0 +1,5 @@
+To achieve the best performance possible, we pre-compute your sort criteria at indexing-time. This is an optimization to ensure you will always have outstanding performance at query-time. The consequence of this approach is that you cannot change the sort criteria of an index at query-time: each index has its unique ranking strategy and you need to have one duplicate of your data per sort criteria.To sort your results with a specific attribute (like _price_ or _timestamp_) you can update the default list of ranking criteria to include your attribute first:
+
+![](https://s3.amazonaws.com/helpscout.net/docs/assets/557c2386e4b01a224b42b2b3/images/55df03cfe4b0426019be061d/file-zvLlxiSJsF.png)
+
+For simplicity's sake, we recommend to name your slave with a prefix/suffix describing its ranking strategy: _products_relevant_desc_, _products_price_asc_, _products_price_desc_... This way, it's easier to target the right index when you make the search calls.

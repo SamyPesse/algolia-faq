@@ -1,0 +1,3 @@
+The slave indices replicate the content of an index, called the master index. They have exactly the same content but can have their own configuration. It's especially used to implement various sort orders since the sort criteria is statically defined at indexing time (and part of the index settings).
+
+If you have an index with 1,000 records and create 2 slaves, you'll end up having 3,000 records indexed by Algolia.

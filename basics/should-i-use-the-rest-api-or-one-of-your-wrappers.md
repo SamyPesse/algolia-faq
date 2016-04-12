@@ -1,0 +1,3 @@
+We don't recommend using the REST API directly.
+
+Our API Clients are not only wrappers, but contain a lot of logic and optimization (HTTP keep-alive, SSL, retry strategy, ...). We don't guarantee our SLA if you use the REST API with a simple REST client: you should really use our open-source & fully-tested API Clients.There are some operations, like downloading our Analytics statistics that can only be done via the REST API, but most operations can be done with the API Clients.

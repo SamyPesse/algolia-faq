@@ -1,0 +1,1 @@
+The backups are performed regularly (currently every 8 hours) from one of the three servers of the cluster.

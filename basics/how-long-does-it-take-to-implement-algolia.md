@@ -1,0 +1,3 @@
+There are no easy answer to this question. It depends on a lot of parameters like the organization of your data, what you want to do with Algolia, and the UI of your website/application.
+
+You can get it up and running in 5 minutes total. The most complex implementations can take a few weeks. Most of our users end up with a fully functional search 1 to 10 days after they sign-up.Because we handle most of the back-end heavy-lifting, most of the work is usually to redesign and rethink the User Experience of your website or application. Of course, we’re more than happy to help you through all the process, don’t hesitate to send us [an email](mailto:support@algolia.com) if you happen to have a question.

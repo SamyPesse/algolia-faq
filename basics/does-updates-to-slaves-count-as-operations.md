@@ -1,0 +1,1 @@
+No, when you are using  [slaves](https://www.algolia.com/doc/faq/index-configuration/what-are-slaves-indices-and-what-are-their-benefits), we only count operations on the master index.

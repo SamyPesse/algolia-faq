@@ -1,0 +1,3 @@
+You're not forced to have an objectID when you index an object on Algolia.
+
+If you don't provide one, we'll create one automatically on our side.That being said, having one is recommended because it's the main way to identify an object if you want to update/delete it.For instance, if you want to update an object, you just need to repush it using the same objectID, and we will update it.All kind of values (string or numerical values) can work as an objectID, they just need to be unique for each object.

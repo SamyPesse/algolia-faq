@@ -1,0 +1,1 @@
+Never. The data that you have indexed in our servers is yours. We’ll never use it for anything else than providing our search service. We’ll never share it or sell it to anyone.

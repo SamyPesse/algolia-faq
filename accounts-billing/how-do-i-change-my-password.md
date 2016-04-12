@@ -1,0 +1,1 @@
+You can change your password in your dashboard in the [My Account](https://www.algolia.com/users/edit) tab of your Algolia account.

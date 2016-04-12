@@ -1,0 +1,1 @@
+Just log in to your Dashboard and click on the [Billing details](https://www.algolia.com/users/edit#?tab=billing-details) tab of the [My account](https://www.algolia.com/users/edit) section.

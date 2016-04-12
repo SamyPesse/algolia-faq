@@ -1,0 +1,3 @@
+Our infrastructure is designed to handle dozens to thousands of indexing operations per second. The speed depends on a lot of factors, and it generally take more time using a mutualized plan than an Enterprise plan (the processing threads are shared in a mutualized plan).
+
+In most cases, indexing operations are processed in a matter of seconds (search operations are processed in a few milliseconds). Also, while the search queries are synchronous, the indexing operations are asynchronous. You can use the method **waitTask** of our API clients to check when an indexing operation is completed.

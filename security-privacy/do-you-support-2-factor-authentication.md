@@ -1,0 +1,1 @@
+Yes. All the members of your team can setup the 2-factor authentication directly in the Account Details section of their dashboard.

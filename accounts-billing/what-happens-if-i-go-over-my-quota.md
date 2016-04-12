@@ -1,0 +1,3 @@
+The transition between the different plans is smoothed out by the existence of over-quota. Each plan comes with an over-quota pricing that is applied for the extra records or operations. We’ll count the maximum reached in the month and we’ll also alert you by email so you can upgrade your plan and benefit from better conditions.
+
+You can find the price for the over-quota operations on our [pricing](https://www.algolia.com/pricing) page.

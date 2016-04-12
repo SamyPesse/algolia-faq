@@ -1,0 +1,3 @@
+The Algolia service is powered by a home-made search engine implemented in C++ which is hosted inside a NGINX server as a NGINX module. The search engine has originally been designed for mobile devices: it was actually a mobile SDK (providing an offline search engine SDK to be embedded in an app) before being an online API. Good thing is that on a mobile devices you need to optimize everything at the milliseconds level because you've no RAM/CPU/DISK \o/ Now that the same technology runs on high-end clusters of machines, it's even faster :)
+
+The whole stack is described [here](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product) and summarized [here](http://stackshare.io/algolia/algolia).

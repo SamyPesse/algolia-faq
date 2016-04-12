@@ -1,0 +1,3 @@
+Algolia is a Search as a Service API that focuses on providing the best experience for the end-users. That means being fast (return results in milliseconds) and relevant (returning the best results, even with a poor input).
+
+If easily browsing and accessing relevant content on your website / application is key to your users' experience, then you should [give us a try](https://www.algolia.com/users/sign_up). Algolia is the only search engine built from the ground up for this type of experience. Also, you should have a look at our [Product features](https://www.algolia.com/product).If you would like, we'd be happy to show you [a demo](mailto:hey@algolia.com).

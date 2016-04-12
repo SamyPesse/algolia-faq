@@ -1,0 +1,1 @@
+You can reset your password by clicking on the **lost password?** link in the [login](https://www.algolia.com/users/sign_in) page.

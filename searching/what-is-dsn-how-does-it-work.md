@@ -1,0 +1,3 @@
+Network latency can have a huge impact on the speed of search engine. This is why we have launched what we call a  [Distributed Search Network](https://www.algolia.com/dsn) (DSN) to overcome this.
+
+It enables you to automatically duplicate your search engine and your data in multiple locations around the world (this is a complete copy of the search engine with all data, not just a cache).This way, when one of your users searches for something, the query will be sent to the closest datacenter, which will greatly reduce the latency.For this feature to work, you need to have a Front-End implementation, implemented using the Javascript, Android, or iOs API client.

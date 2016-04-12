@@ -1,0 +1,3 @@
+Unfortunately no. To provide the same performance/features on a non-production environment, we need to use the same hardware setup. We recommend to use the same account and application for all environments, and generate a new set of indices and API keys.
+
+For example, you can have the indices dev_products, staging_products and prod_products. Then, you can generate API Keys for each environment by limiting their access to indices having the prefix 'dev_*', 'staging_*' and 'prod_*'.If you want to minimize the impact on pricing, we recommend to only index a subset (10%? or 1%?) of your records in your non-production environments.

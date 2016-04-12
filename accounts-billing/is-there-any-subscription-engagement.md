@@ -1,0 +1,1 @@
+No, you pay month by month and can stop your subscription at any time.

@@ -1,0 +1,3 @@
+The number of records is equal to the sum of records that you have in all of your indices (including slave indices).
+
+In terms of pricing, we allow you to store a certain amount of records at any giving time. You can update, delete or add as many records as you want as long as the total number of the indexed records does not exceed the limit of the plan. If you go over this limit, you'll be charged an over-quota based on the **maximum** number of records you reached.

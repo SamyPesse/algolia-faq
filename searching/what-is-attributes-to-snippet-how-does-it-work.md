@@ -1,0 +1,3 @@
+The AttributesToSnippet setting is a way to shorten ("snippet") your long chunks of text to display them in the search results. Just think about the small pieces of text displayed below a Google result: it's built from a subset of the sentences of the page content, includes your matching keywords, and avoid flooding the search results page. 
+
+For example, if you limit the number of words of the "description" attribute to 10, the "_snippetResult.description.value" attribute of the JSON answer will only contain the 10 best words of this description.
