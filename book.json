@@ -1,3 +1,11 @@
 {
-    "gitbook": ">=3.0.0-pre.0"
+    "gitbook": ">=3.0.0-pre.0",
+    "plugins": ["algolia", "search", "-lunr", "theme-faq", "-fontsettings", "-sharing"],
+    "pluginsConfig": {
+        "algolia": {
+            "index":         "algolia-faq",
+            "applicationID": "1QIL1RJPSO",
+            "publicKey":     "fd4408fbe42603ef1d8ca41a255a1fb0"
+        }
+    }
 }
