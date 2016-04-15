@@ -24,3 +24,12 @@ $ curl -H "Accept: application/vnd.gitbook.format.v3" https://api.gitbook.com/bo
     "title": "How many index \/ indices can I create?",
   ...
 ```
+
+### Relation between article
+
+Article can have "Related Articles" listed in their YAML header.
+
+For example: [why-algolia/what-makes-algolia-better-than-elasticsearch-or-solr.md](https://github.com/SamyPesse/algolia-faq/blob/master/why-algolia/what-makes-algolia-better-than-elasticsearch-or-solr.md)
+And related article will be listed at the [bottom of the page](https://samypesse.gitbooks.io/algolia-faq/content/why-algolia/what-makes-algolia-better-than-elasticsearch-or-solr.html
+).
+
