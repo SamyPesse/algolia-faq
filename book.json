@@ -1,5 +1,5 @@
 {
-    "gitbook": ">=3.0.0-pre.10",
+    "gitbook": ">=3.0.0-pre.11",
     "plugins": ["algolia", "search", "-lunr", "theme-faq", "-fontsettings", "-sharing"],
     "pluginsConfig": {
         "algolia": {
