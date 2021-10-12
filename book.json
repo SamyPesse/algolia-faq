@@ -7,5 +7,6 @@
             "applicationID": "1QIL1RJPSO",
             "publicKey":     "fd4408fbe42603ef1d8ca41a255a1fb0"
         }
-    }
+    },
+    "useless": true
 }
