@@ -4,7 +4,7 @@ search: false
 
 # Algolia FAQ
 
-test gbx
+test gbx !!!
 
 This is a proof of concept for porting Algolia's FAQ as a GitBook. The search in this FAQ is powered by Algolia using [plugin-algolia](https://github.com/GitbookIO/plugin-algolia).
 
